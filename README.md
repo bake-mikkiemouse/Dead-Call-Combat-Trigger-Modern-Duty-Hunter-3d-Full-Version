@@ -242,4 +242,4 @@ This repository serves as the official landing page for **Dead Call: Combat Trig
 **Get the most recent version of Dead Call today!**
 
 ---
-**Last updated:** 2026-09-07 23:52:02 UTC
+**Last updated:** 2026-09-08 02:09:56 UTC
